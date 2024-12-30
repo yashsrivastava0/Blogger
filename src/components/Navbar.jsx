@@ -36,7 +36,7 @@ function Navbar() {
       <nav className=" shadow-lg px-4 py-2">
         <div className="flex items-center justify-between container mx-auto">
           <div className="font-semibold text-xl">
-            Cilli<span className="text-blue-500">Blog</span>
+            BLOGer<span className="text-blue-500">Voger</span>
           </div>
           {/* Desktop */}
           <div className=" mx-6">

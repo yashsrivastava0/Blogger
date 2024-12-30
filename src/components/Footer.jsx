@@ -124,7 +124,7 @@ const Footer = () => {
       </footer>
       <div className=" container mx-auto  flex flex-col md:flex-row justify-between items-center">
         <div className="text-xl font-semibold hidden md:flex">
-          Cilli<span className="text-blue-500 font-bold">Blog</span>
+          BLOGer<span className="text-blue-500 font-bold">Voger</span>
         </div>
         <div className="text-gray-400 text-sm hidden md:flex">
           <p>&copy; 2024 DhiWise PVT. LTD. All rights reserved</p>
